@@ -3,7 +3,7 @@ package com.pluralsight;
 import java.io.*;
 import java.util.regex.Pattern;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         try
